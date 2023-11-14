@@ -1,6 +1,6 @@
 This repository holds the Matlab code to analyse SPFI data in support of the manuscript
 
-"Size photometry and fluorescence imaging of immobilized immersed extracellular vesicles"
+"Size photometry and fluorescence imaging of immobilized immersed extracellular vesicles"\n
 Andreas Wallucks, Philippe DeCorwin-Martin, Molly L. Shen, Andy Ng, David Juncker
 
 1 Biomedical Engineering Department, McGill University, Montreal, QC, Canada
